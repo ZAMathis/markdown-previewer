@@ -28,5 +28,5 @@ _Or italic_?
 
 **_Or Both!_**
 
-You can also use images! !(https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
+You can also use images! ![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
 `
