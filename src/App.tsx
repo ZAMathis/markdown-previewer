@@ -11,11 +11,10 @@ const App: FC = () => {
 
   return (
     <div className="App">
-      <div className='container'>
-        
+      <main className='container'>
         <Editor setInput={setInput} />
         <Preview input={input} />
-      </div>
+      </main>
     </div>
   );
 }

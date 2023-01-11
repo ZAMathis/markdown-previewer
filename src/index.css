@@ -31,6 +31,39 @@ body {
   border-radius: 8px;
 }
 
+#preview h1, h2 {
+  border-bottom: 1px solid gray;
+  padding-bottom: 5px;
+  width: 95%;
+}
+
+#preview p {
+  margin: 30px 0;
+}
+
+#preview a {
+  text-decoration: none;
+}
+
+#preview code {
+  background-color: gainsboro;
+  padding: 2px;
+}
+
+#preview pre {
+  padding: 2px;
+  background-color: gainsboro;
+  width: 95%;
+}
+
+#preview blockquote {
+  color: gray;
+  border-left: 2px solid gray;
+  margin-left: 30px;
+  padding-left: 15px;
+}
+
 #preview img {
   width: 100%;
+  margin: 30px 0;
 }
