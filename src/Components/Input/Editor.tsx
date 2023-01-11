@@ -4,7 +4,6 @@ import { defaultString } from "../../utility/defaultString"
 
 const Editor:FC<EditorProps> = ({setInput}) => {
     const [val, setVal] = useState(defaultString);
-    const [height, setHeight] = useState(200);
 
     const handleChange = (e: any) => {
         setInput(e.target.value);
@@ -16,7 +15,7 @@ const Editor:FC<EditorProps> = ({setInput}) => {
     id="editor" 
     onChange={handleChange} 
     value={val} 
-    style={{height: `${height}px`}}
+    style={{height: '200px'}}
     placeholder="Type here"
     ></textarea>
 }
