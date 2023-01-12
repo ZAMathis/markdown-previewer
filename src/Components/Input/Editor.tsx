@@ -15,7 +15,7 @@ const Editor:FC<EditorProps> = ({setInput}) => {
     id="editor" 
     onChange={handleChange} 
     value={val} 
-    style={{height: '200px'}}
+    style={{height: '150px'}}
     placeholder="Type here"
     ></textarea>
 }
