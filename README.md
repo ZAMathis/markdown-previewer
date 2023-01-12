@@ -8,8 +8,8 @@ https://eclectic-cassata-1e8049.netlify.app/
 
 ## Features
 
-- Type in markdown in the left-hand panel
-- See the rendered output in the right-hand panel in real time
+- Type in markdown in the top panel
+- See the github-styled markdown rendered output in the bottom panel in real time
 - Use standard markdown syntax, including headings, lists, links, and more
 - Fully responsive and mobile-friendly
 
