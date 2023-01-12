@@ -1,10 +1,10 @@
 # Markdown Previewer
 
+This is a web application that allows you to type in markdown and preview the rendered output in real time. It is built using React, Typescript, and Tailwind.
+
 ## Live Site
 
 https://eclectic-cassata-1e8049.netlify.app/
-
-This is a web application that allows you to type in markdown and preview the rendered output in real time. It is built using React, Typescript, and Tailwind.
 
 ## Features
 
